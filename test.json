@@ -1,0 +1,4996 @@
+{
+ "name": ".",
+ "type": "dir",
+ "parent": ".",
+ "size": 4096
+}{
+ "name": "main.py",
+ "type": "file",
+ "parent": ".",
+ "size": 2167
+}{
+ "name": ".git",
+ "type": "dir",
+ "parent": ".\\.git",
+ "size": 4096
+}{
+ "name": "COMMIT_EDITMSG",
+ "type": "file",
+ "parent": ".\\.git",
+ "size": 6
+}{
+ "name": "config",
+ "type": "file",
+ "parent": ".\\.git",
+ "size": 130
+}{
+ "name": "description",
+ "type": "file",
+ "parent": ".\\.git",
+ "size": 73
+}{
+ "name": "HEAD",
+ "type": "file",
+ "parent": ".\\.git",
+ "size": 23
+}{
+ "name": "index",
+ "type": "file",
+ "parent": ".\\.git",
+ "size": 670
+}{
+ "name": "hooks",
+ "type": "dir",
+ "parent": ".\\.git\\hooks",
+ "size": 4096
+}{
+ "name": "applypatch-msg.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 478
+}{
+ "name": "commit-msg.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 896
+}{
+ "name": "fsmonitor-watchman.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 4726
+}{
+ "name": "post-update.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 189
+}{
+ "name": "pre-applypatch.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 424
+}{
+ "name": "pre-commit.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 1643
+}{
+ "name": "pre-merge-commit.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 416
+}{
+ "name": "pre-push.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 1374
+}{
+ "name": "pre-rebase.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 4898
+}{
+ "name": "pre-receive.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 544
+}{
+ "name": "prepare-commit-msg.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 1492
+}{
+ "name": "push-to-checkout.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 2783
+}{
+ "name": "update.sample",
+ "type": "file",
+ "parent": ".\\.git\\hooks",
+ "size": 3650
+}{
+ "name": "info",
+ "type": "dir",
+ "parent": ".\\.git\\info",
+ "size": 0
+}{
+ "name": "exclude",
+ "type": "file",
+ "parent": ".\\.git\\info",
+ "size": 240
+}{
+ "name": "logs",
+ "type": "dir",
+ "parent": ".\\.git\\logs",
+ "size": 0
+}{
+ "name": "HEAD",
+ "type": "file",
+ "parent": ".\\.git\\logs",
+ "size": 153
+}{
+ "name": "refs",
+ "type": "dir",
+ "parent": ".\\.git\\logs\\refs",
+ "size": 0
+}{
+ "name": "heads",
+ "type": "dir",
+ "parent": ".\\.git\\logs\\refs\\heads",
+ "size": 0
+}{
+ "name": "master",
+ "type": "file",
+ "parent": ".\\.git\\logs\\refs\\heads",
+ "size": 153
+}{
+ "name": "objects",
+ "type": "dir",
+ "parent": ".\\.git\\objects",
+ "size": 4096
+}{
+ "name": "10",
+ "type": "dir",
+ "parent": ".\\.git\\objects\\10",
+ "size": 0
+}{
+ "name": "5ce2da2d6447d11dfe32bfb846c3d5b199fc99",
+ "type": "file",
+ "parent": ".\\.git\\objects\\10",
+ "size": 142
+}{
+ "name": "26",
+ "type": "dir",
+ "parent": ".\\.git\\objects\\26",
+ "size": 0
+}{
+ "name": "d33521af10bcc7fd8cea344038eaaeb78d0ef5",
+ "type": "file",
+ "parent": ".\\.git\\objects\\26",
+ "size": 63
+}{
+ "name": "a4",
+ "type": "dir",
+ "parent": ".\\.git\\objects\\a4",
+ "size": 0
+}{
+ "name": "652f355e26c43a58fbff0f10cd661868d00976",
+ "type": "file",
+ "parent": ".\\.git\\objects\\a4",
+ "size": 153
+}{
+ "name": "ac",
+ "type": "dir",
+ "parent": ".\\.git\\objects\\ac",
+ "size": 0
+}{
+ "name": "b1eb8efc10e07f4b3c3045ccc931191ad3e2c7",
+ "type": "file",
+ "parent": ".\\.git\\objects\\ac",
+ "size": 123
+}{
+ "name": "d2",
+ "type": "dir",
+ "parent": ".\\.git\\objects\\d2",
+ "size": 0
+}{
+ "name": "bd908b5d11f6a1bf7574de0f723f00e9d69272",
+ "type": "file",
+ "parent": ".\\.git\\objects\\d2",
+ "size": 52
+}{
+ "name": "e2",
+ "type": "dir",
+ "parent": ".\\.git\\objects\\e2",
+ "size": 0
+}{
+ "name": "7b45f6e599b42b623fd883a3918d886f60eefe",
+ "type": "file",
+ "parent": ".\\.git\\objects\\e2",
+ "size": 265
+}{
+ "name": "e4",
+ "type": "dir",
+ "parent": ".\\.git\\objects\\e4",
+ "size": 0
+}{
+ "name": "37c2c1f2059b283eeada4464e894c007236dbe",
+ "type": "file",
+ "parent": ".\\.git\\objects\\e4",
+ "size": 281
+}{
+ "name": "e6",
+ "type": "dir",
+ "parent": ".\\.git\\objects\\e6",
+ "size": 0
+}{
+ "name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+ "type": "file",
+ "parent": ".\\.git\\objects\\e6",
+ "size": 15
+}{
+ "name": "fe",
+ "type": "dir",
+ "parent": ".\\.git\\objects\\fe",
+ "size": 0
+}{
+ "name": "5aa05abf146aa883134f25a60f226343526277",
+ "type": "file",
+ "parent": ".\\.git\\objects\\fe",
+ "size": 189
+}{
+ "name": "info",
+ "type": "dir",
+ "parent": ".\\.git\\objects\\info",
+ "size": 0
+}{
+ "name": "pack",
+ "type": "dir",
+ "parent": ".\\.git\\objects\\pack",
+ "size": 0
+}{
+ "name": "refs",
+ "type": "dir",
+ "parent": ".\\.git\\refs",
+ "size": 0
+}{
+ "name": "heads",
+ "type": "dir",
+ "parent": ".\\.git\\refs\\heads",
+ "size": 0
+}{
+ "name": "master",
+ "type": "file",
+ "parent": ".\\.git\\refs\\heads",
+ "size": 41
+}{
+ "name": "tags",
+ "type": "dir",
+ "parent": ".\\.git\\refs\\tags",
+ "size": 0
+}{
+ "name": ".idea",
+ "type": "dir",
+ "parent": ".\\.idea",
+ "size": 4096
+}{
+ "name": ".gitignore",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 50
+}{
+ "name": "misc.xml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 196
+}{
+ "name": "modules.xml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 287
+}{
+ "name": "pythonProject4.iml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 407
+}{
+ "name": "vcs.xml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 185
+}{
+ "name": "workspace.xml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 2675
+}{
+ "name": "inspectionProfiles",
+ "type": "dir",
+ "parent": ".\\.idea\\inspectionProfiles",
+ "size": 4096
+}{
+ "name": "profiles_settings.xml",
+ "type": "file",
+ "parent": ".\\.idea\\inspectionProfiles",
+ "size": 174
+}{
+ "name": "Project_Default.xml",
+ "type": "file",
+ "parent": ".\\.idea\\inspectionProfiles",
+ "size": 472
+}{
+ "name": "HW8python",
+ "type": "dir",
+ "parent": ".\\HW8python",
+ "size": 4096
+}{
+ "name": ".gitignore",
+ "type": "file",
+ "parent": ".\\HW8python",
+ "size": 42
+}{
+ "name": "pyvenv.cfg",
+ "type": "file",
+ "parent": ".\\HW8python",
+ "size": 247
+}{
+ "name": "Include",
+ "type": "dir",
+ "parent": ".\\HW8python\\Include",
+ "size": 0
+}{
+ "name": "Lib",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib",
+ "size": 0
+}{
+ "name": "site-packages",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages",
+ "size": 4096
+}{
+ "name": "distutils-precedence.pth",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages",
+ "size": 151
+}{
+ "name": "pip-22.3.1.virtualenv",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages",
+ "size": 0
+}{
+ "name": "setuptools-65.5.1.virtualenv",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages",
+ "size": 0
+}{
+ "name": "wheel-0.38.4.virtualenv",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages",
+ "size": 0
+}{
+ "name": "_virtualenv.pth",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages",
+ "size": 18
+}{
+ "name": "_virtualenv.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages",
+ "size": 5770
+}{
+ "name": "pip",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip",
+ "size": 4096
+}{
+ "name": "py.typed",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip",
+ "size": 286
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip",
+ "size": 357
+}{
+ "name": "__main__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip",
+ "size": 1198
+}{
+ "name": "__pip-runner__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip",
+ "size": 1444
+}{
+ "name": "_internal",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal",
+ "size": 4096
+}{
+ "name": "build_env.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal",
+ "size": 10234
+}{
+ "name": "cache.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal",
+ "size": 10734
+}{
+ "name": "configuration.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal",
+ "size": 13529
+}{
+ "name": "exceptions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal",
+ "size": 20942
+}{
+ "name": "main.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal",
+ "size": 340
+}{
+ "name": "pyproject.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal",
+ "size": 7074
+}{
+ "name": "self_outdated_check.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal",
+ "size": 8020
+}{
+ "name": "wheel_builder.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal",
+ "size": 13079
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal",
+ "size": 573
+}{
+ "name": "cli",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 4096
+}{
+ "name": "autocompletion.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 6676
+}{
+ "name": "base_command.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 7842
+}{
+ "name": "cmdoptions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 29381
+}{
+ "name": "command_context.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 774
+}{
+ "name": "main.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 2472
+}{
+ "name": "main_parser.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 4338
+}{
+ "name": "parser.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 10817
+}{
+ "name": "progress_bars.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 1968
+}{
+ "name": "req_command.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 18172
+}{
+ "name": "spinners.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 5118
+}{
+ "name": "status_codes.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 116
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\cli",
+ "size": 132
+}{
+ "name": "commands",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 4096
+}{
+ "name": "cache.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 7582
+}{
+ "name": "check.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 1685
+}{
+ "name": "completion.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 4129
+}{
+ "name": "configuration.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 9815
+}{
+ "name": "debug.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 6573
+}{
+ "name": "download.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 5289
+}{
+ "name": "freeze.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 2951
+}{
+ "name": "hash.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 1703
+}{
+ "name": "help.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 1132
+}{
+ "name": "index.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 4762
+}{
+ "name": "inspect.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 3374
+}{
+ "name": "install.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 31726
+}{
+ "name": "list.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 12343
+}{
+ "name": "search.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 5697
+}{
+ "name": "show.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 6129
+}{
+ "name": "uninstall.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 3680
+}{
+ "name": "wheel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 7396
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\commands",
+ "size": 3882
+}{
+ "name": "distributions",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\distributions",
+ "size": 4096
+}{
+ "name": "base.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\distributions",
+ "size": 1221
+}{
+ "name": "installed.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\distributions",
+ "size": 729
+}{
+ "name": "sdist.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\distributions",
+ "size": 6494
+}{
+ "name": "wheel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\distributions",
+ "size": 1164
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\distributions",
+ "size": 858
+}{
+ "name": "index",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\index",
+ "size": 0
+}{
+ "name": "collector.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\index",
+ "size": 16503
+}{
+ "name": "package_finder.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\index",
+ "size": 37596
+}{
+ "name": "sources.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\index",
+ "size": 6557
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\index",
+ "size": 30
+}{
+ "name": "locations",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\locations",
+ "size": 4096
+}{
+ "name": "base.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\locations",
+ "size": 2573
+}{
+ "name": "_distutils.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\locations",
+ "size": 6302
+}{
+ "name": "_sysconfig.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\locations",
+ "size": 7867
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\locations",
+ "size": 17552
+}{
+ "name": "metadata",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\metadata",
+ "size": 4096
+}{
+ "name": "base.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\metadata",
+ "size": 25277
+}{
+ "name": "pkg_resources.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\metadata",
+ "size": 9773
+}{
+ "name": "_json.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\metadata",
+ "size": 2595
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\metadata",
+ "size": 4280
+}{
+ "name": "importlib",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib",
+ "size": 0
+}{
+ "name": "_compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib",
+ "size": 1882
+}{
+ "name": "_dists.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib",
+ "size": 8181
+}{
+ "name": "_envs.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib",
+ "size": 7457
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib",
+ "size": 107
+}{
+ "name": "models",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 4096
+}{
+ "name": "candidate.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 990
+}{
+ "name": "direct_url.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 5877
+}{
+ "name": "format_control.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 2520
+}{
+ "name": "index.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 1030
+}{
+ "name": "installation_report.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 2617
+}{
+ "name": "link.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 18083
+}{
+ "name": "scheme.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 738
+}{
+ "name": "search_scope.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 4644
+}{
+ "name": "selection_prefs.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 1907
+}{
+ "name": "target_python.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 3858
+}{
+ "name": "wheel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 3600
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\models",
+ "size": 63
+}{
+ "name": "network",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\network",
+ "size": 4096
+}{
+ "name": "auth.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\network",
+ "size": 12190
+}{
+ "name": "cache.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\network",
+ "size": 2145
+}{
+ "name": "download.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\network",
+ "size": 6096
+}{
+ "name": "lazy_wheel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\network",
+ "size": 7638
+}{
+ "name": "session.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\network",
+ "size": 18443
+}{
+ "name": "utils.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\network",
+ "size": 4073
+}{
+ "name": "xmlrpc.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\network",
+ "size": 1791
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\network",
+ "size": 50
+}{
+ "name": "operations",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations",
+ "size": 4096
+}{
+ "name": "check.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations",
+ "size": 5109
+}{
+ "name": "freeze.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations",
+ "size": 9784
+}{
+ "name": "prepare.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations",
+ "size": 25091
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations",
+ "size": 0
+}{
+ "name": "build",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+ "size": 4096
+}{
+ "name": "build_tracker.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+ "size": 4133
+}{
+ "name": "metadata.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+ "size": 1404
+}{
+ "name": "metadata_editable.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+ "size": 1456
+}{
+ "name": "metadata_legacy.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+ "size": 2198
+}{
+ "name": "wheel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+ "size": 1063
+}{
+ "name": "wheel_editable.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+ "size": 1405
+}{
+ "name": "wheel_legacy.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+ "size": 3064
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+ "size": 0
+}{
+ "name": "install",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\install",
+ "size": 0
+}{
+ "name": "editable_legacy.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\install",
+ "size": 1354
+}{
+ "name": "legacy.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\install",
+ "size": 4105
+}{
+ "name": "wheel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\install",
+ "size": 27407
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\operations\\install",
+ "size": 51
+}{
+ "name": "req",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\req",
+ "size": 4096
+}{
+ "name": "constructors.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\req",
+ "size": 16611
+}{
+ "name": "req_file.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\req",
+ "size": 17646
+}{
+ "name": "req_install.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\req",
+ "size": 35600
+}{
+ "name": "req_set.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\req",
+ "size": 2858
+}{
+ "name": "req_uninstall.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\req",
+ "size": 24045
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\req",
+ "size": 2807
+}{
+ "name": "resolution",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution",
+ "size": 0
+}{
+ "name": "base.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution",
+ "size": 583
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution",
+ "size": 0
+}{
+ "name": "legacy",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy",
+ "size": 0
+}{
+ "name": "resolver.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy",
+ "size": 24129
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy",
+ "size": 0
+}{
+ "name": "resolvelib",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+ "size": 4096
+}{
+ "name": "base.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+ "size": 5220
+}{
+ "name": "candidates.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+ "size": 18963
+}{
+ "name": "factory.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+ "size": 27878
+}{
+ "name": "found_candidates.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+ "size": 5705
+}{
+ "name": "provider.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+ "size": 9914
+}{
+ "name": "reporter.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+ "size": 2526
+}{
+ "name": "requirements.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+ "size": 5455
+}{
+ "name": "resolver.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+ "size": 11533
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+ "size": 0
+}{
+ "name": "utils",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 8192
+}{
+ "name": "appdirs.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 1665
+}{
+ "name": "compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 1884
+}{
+ "name": "compatibility_tags.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 5377
+}{
+ "name": "datetime.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 242
+}{
+ "name": "deprecation.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 5764
+}{
+ "name": "direct_url_helpers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 3206
+}{
+ "name": "distutils_args.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 1115
+}{
+ "name": "egg_link.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 2203
+}{
+ "name": "encoding.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 1169
+}{
+ "name": "entrypoints.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 3064
+}{
+ "name": "filesystem.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 5122
+}{
+ "name": "filetypes.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 716
+}{
+ "name": "glibc.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 3110
+}{
+ "name": "hashes.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 4831
+}{
+ "name": "inject_securetransport.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 795
+}{
+ "name": "logging.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 11632
+}{
+ "name": "misc.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 21617
+}{
+ "name": "models.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 1193
+}{
+ "name": "packaging.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 2108
+}{
+ "name": "setuptools_build.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 5662
+}{
+ "name": "subprocess.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 9197
+}{
+ "name": "temp_dir.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 7702
+}{
+ "name": "unpacking.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 8821
+}{
+ "name": "urls.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 1759
+}{
+ "name": "virtualenv.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 3459
+}{
+ "name": "wheel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 4549
+}{
+ "name": "_log.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 1015
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\utils",
+ "size": 0
+}{
+ "name": "vcs",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\vcs",
+ "size": 4096
+}{
+ "name": "bazaar.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\vcs",
+ "size": 3518
+}{
+ "name": "git.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\vcs",
+ "size": 18116
+}{
+ "name": "mercurial.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\vcs",
+ "size": 5238
+}{
+ "name": "subversion.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\vcs",
+ "size": 11728
+}{
+ "name": "versioncontrol.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\vcs",
+ "size": 22811
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_internal\\vcs",
+ "size": 596
+}{
+ "name": "_vendor",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor",
+ "size": 4096
+}{
+ "name": "six.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor",
+ "size": 34549
+}{
+ "name": "typing_extensions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor",
+ "size": 80114
+}{
+ "name": "vendor.txt",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor",
+ "size": 469
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor",
+ "size": 4966
+}{
+ "name": "cachecontrol",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+ "size": 4096
+}{
+ "name": "adapter.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+ "size": 5033
+}{
+ "name": "cache.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+ "size": 1535
+}{
+ "name": "compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+ "size": 778
+}{
+ "name": "controller.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+ "size": 16416
+}{
+ "name": "filewrapper.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+ "size": 3946
+}{
+ "name": "heuristics.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+ "size": 4154
+}{
+ "name": "serialize.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+ "size": 7105
+}{
+ "name": "wrapper.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+ "size": 774
+}{
+ "name": "_cmd.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+ "size": 1379
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+ "size": 465
+}{
+ "name": "caches",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches",
+ "size": 0
+}{
+ "name": "file_cache.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches",
+ "size": 5271
+}{
+ "name": "redis_cache.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches",
+ "size": 1033
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches",
+ "size": 242
+}{
+ "name": "certifi",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\certifi",
+ "size": 0
+}{
+ "name": "cacert.pem",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\certifi",
+ "size": 286370
+}{
+ "name": "core.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\certifi",
+ "size": 4279
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\certifi",
+ "size": 94
+}{
+ "name": "__main__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\certifi",
+ "size": 255
+}{
+ "name": "chardet",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 16384
+}{
+ "name": "big5freq.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 31274
+}{
+ "name": "big5prober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 1741
+}{
+ "name": "chardistribution.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 9608
+}{
+ "name": "charsetgroupprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 3817
+}{
+ "name": "charsetprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 4801
+}{
+ "name": "codingstatemachine.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 3559
+}{
+ "name": "cp949prober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 1838
+}{
+ "name": "enums.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 1619
+}{
+ "name": "escprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 3864
+}{
+ "name": "escsm.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 12021
+}{
+ "name": "eucjpprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 3676
+}{
+ "name": "euckrfreq.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 13566
+}{
+ "name": "euckrprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 1731
+}{
+ "name": "euctwfreq.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 36913
+}{
+ "name": "euctwprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 1731
+}{
+ "name": "gb2312freq.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 20735
+}{
+ "name": "gb2312prober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 1737
+}{
+ "name": "hebrewprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 13919
+}{
+ "name": "jisfreq.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 25796
+}{
+ "name": "johabfreq.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 42498
+}{
+ "name": "johabprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 1730
+}{
+ "name": "jpcntx.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 26797
+}{
+ "name": "langbulgarianmodel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 104562
+}{
+ "name": "langgreekmodel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 98484
+}{
+ "name": "langhebrewmodel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 98196
+}{
+ "name": "langhungarianmodel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 101363
+}{
+ "name": "langrussianmodel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 128035
+}{
+ "name": "langthaimodel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 102774
+}{
+ "name": "langturkishmodel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 95372
+}{
+ "name": "latin1prober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 5260
+}{
+ "name": "mbcharsetprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 3367
+}{
+ "name": "mbcsgroupprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 2056
+}{
+ "name": "mbcssm.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 30068
+}{
+ "name": "sbcharsetprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 6199
+}{
+ "name": "sbcsgroupprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 4129
+}{
+ "name": "sjisprober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 3749
+}{
+ "name": "universaldetector.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 13288
+}{
+ "name": "utf1632prober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 8289
+}{
+ "name": "utf8prober.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 2709
+}{
+ "name": "version.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 242
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet",
+ "size": 3705
+}{
+ "name": "cli",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli",
+ "size": 0
+}{
+ "name": "chardetect.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli",
+ "size": 2406
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli",
+ "size": 0
+}{
+ "name": "metadata",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata",
+ "size": 0
+}{
+ "name": "languages.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata",
+ "size": 13280
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata",
+ "size": 0
+}{
+ "name": "colorama",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\colorama",
+ "size": 4096
+}{
+ "name": "ansi.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\colorama",
+ "size": 2522
+}{
+ "name": "ansitowin32.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\colorama",
+ "size": 10830
+}{
+ "name": "initialise.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\colorama",
+ "size": 1915
+}{
+ "name": "win32.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\colorama",
+ "size": 5404
+}{
+ "name": "winterm.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\colorama",
+ "size": 6438
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\colorama",
+ "size": 239
+}{
+ "name": "distlib",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 4096
+}{
+ "name": "compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 41259
+}{
+ "name": "database.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 51697
+}{
+ "name": "index.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 20834
+}{
+ "name": "locators.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 51991
+}{
+ "name": "manifest.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 14811
+}{
+ "name": "markers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 5058
+}{
+ "name": "metadata.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 39801
+}{
+ "name": "resources.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 10820
+}{
+ "name": "scripts.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 18102
+}{
+ "name": "t32.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 97792
+}{
+ "name": "t64-arm.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 182784
+}{
+ "name": "t64.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 108032
+}{
+ "name": "util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 66262
+}{
+ "name": "version.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 23513
+}{
+ "name": "w32.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 91648
+}{
+ "name": "w64-arm.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 168448
+}{
+ "name": "w64.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 101888
+}{
+ "name": "wheel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 43898
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distlib",
+ "size": 581
+}{
+ "name": "distro",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distro",
+ "size": 0
+}{
+ "name": "distro.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distro",
+ "size": 48841
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distro",
+ "size": 981
+}{
+ "name": "__main__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\distro",
+ "size": 64
+}{
+ "name": "idna",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\idna",
+ "size": 4096
+}{
+ "name": "codec.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\idna",
+ "size": 3374
+}{
+ "name": "compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\idna",
+ "size": 321
+}{
+ "name": "core.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\idna",
+ "size": 12950
+}{
+ "name": "idnadata.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\idna",
+ "size": 44375
+}{
+ "name": "intranges.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\idna",
+ "size": 1881
+}{
+ "name": "package_data.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\idna",
+ "size": 21
+}{
+ "name": "uts46data.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\idna",
+ "size": 206539
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\idna",
+ "size": 849
+}{
+ "name": "msgpack",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\msgpack",
+ "size": 0
+}{
+ "name": "exceptions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\msgpack",
+ "size": 1081
+}{
+ "name": "ext.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\msgpack",
+ "size": 6080
+}{
+ "name": "fallback.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\msgpack",
+ "size": 34557
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\msgpack",
+ "size": 1132
+}{
+ "name": "packaging",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 4096
+}{
+ "name": "markers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 8487
+}{
+ "name": "requirements.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 4676
+}{
+ "name": "specifiers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 30110
+}{
+ "name": "tags.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 15699
+}{
+ "name": "utils.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 4200
+}{
+ "name": "version.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 14665
+}{
+ "name": "_manylinux.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 11488
+}{
+ "name": "_musllinux.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 4378
+}{
+ "name": "_structures.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 1431
+}{
+ "name": "__about__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 661
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\packaging",
+ "size": 497
+}{
+ "name": "pep517",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517",
+ "size": 4096
+}{
+ "name": "build.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517",
+ "size": 3443
+}{
+ "name": "check.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517",
+ "size": 6083
+}{
+ "name": "colorlog.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517",
+ "size": 3994
+}{
+ "name": "dirtools.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517",
+ "size": 607
+}{
+ "name": "envbuild.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517",
+ "size": 6081
+}{
+ "name": "meta.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517",
+ "size": 2520
+}{
+ "name": "wrappers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517",
+ "size": 12721
+}{
+ "name": "_compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517",
+ "size": 138
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517",
+ "size": 130
+}{
+ "name": "in_process",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process",
+ "size": 0
+}{
+ "name": "_in_process.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process",
+ "size": 10801
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process",
+ "size": 872
+}{
+ "name": "pkg_resources",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pkg_resources",
+ "size": 0
+}{
+ "name": "py31compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pkg_resources",
+ "size": 562
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pkg_resources",
+ "size": 108287
+}{
+ "name": "platformdirs",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+ "size": 4096
+}{
+ "name": "android.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+ "size": 4068
+}{
+ "name": "api.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+ "size": 4910
+}{
+ "name": "macos.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+ "size": 2655
+}{
+ "name": "unix.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+ "size": 6910
+}{
+ "name": "version.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+ "size": 78
+}{
+ "name": "windows.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+ "size": 6439
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+ "size": 12831
+}{
+ "name": "__main__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+ "size": 1176
+}{
+ "name": "pygments",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 4096
+}{
+ "name": "cmdline.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 23685
+}{
+ "name": "console.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 1697
+}{
+ "name": "filter.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 1938
+}{
+ "name": "formatter.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 2917
+}{
+ "name": "lexer.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 32005
+}{
+ "name": "modeline.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 986
+}{
+ "name": "plugin.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 2591
+}{
+ "name": "regexopt.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 3072
+}{
+ "name": "scanner.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 3092
+}{
+ "name": "sphinxext.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 4630
+}{
+ "name": "style.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 6257
+}{
+ "name": "token.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 6184
+}{
+ "name": "unistring.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 63187
+}{
+ "name": "util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 9110
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 2999
+}{
+ "name": "__main__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments",
+ "size": 353
+}{
+ "name": "filters",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters",
+ "size": 0
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters",
+ "size": 40386
+}{
+ "name": "formatters",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 4096
+}{
+ "name": "bbcode.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 3314
+}{
+ "name": "groff.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 5086
+}{
+ "name": "html.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 35441
+}{
+ "name": "img.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 21938
+}{
+ "name": "irc.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 5871
+}{
+ "name": "latex.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 19351
+}{
+ "name": "other.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 5073
+}{
+ "name": "pangomarkup.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 2212
+}{
+ "name": "rtf.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 5014
+}{
+ "name": "svg.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 7335
+}{
+ "name": "terminal.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 4674
+}{
+ "name": "terminal256.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 11753
+}{
+ "name": "_mapping.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 4104
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+ "size": 4810
+}{
+ "name": "lexers",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers",
+ "size": 0
+}{
+ "name": "python.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers",
+ "size": 53376
+}{
+ "name": "_mapping.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers",
+ "size": 70232
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers",
+ "size": 11174
+}{
+ "name": "styles",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles",
+ "size": 0
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles",
+ "size": 3419
+}{
+ "name": "pyparsing",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+ "size": 4096
+}{
+ "name": "actions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+ "size": 6426
+}{
+ "name": "common.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+ "size": 12936
+}{
+ "name": "core.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+ "size": 213344
+}{
+ "name": "exceptions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+ "size": 9023
+}{
+ "name": "helpers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+ "size": 39129
+}{
+ "name": "results.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+ "size": 25341
+}{
+ "name": "testing.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+ "size": 13402
+}{
+ "name": "unicode.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+ "size": 10787
+}{
+ "name": "util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+ "size": 6805
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+ "size": 9171
+}{
+ "name": "diagram",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\diagram",
+ "size": 0
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\diagram",
+ "size": 23685
+}{
+ "name": "requests",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 4096
+}{
+ "name": "adapters.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 21443
+}{
+ "name": "api.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 6377
+}{
+ "name": "auth.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 10187
+}{
+ "name": "certs.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 575
+}{
+ "name": "compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 1286
+}{
+ "name": "cookies.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 18560
+}{
+ "name": "exceptions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 3823
+}{
+ "name": "help.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 3879
+}{
+ "name": "hooks.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 733
+}{
+ "name": "models.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 35287
+}{
+ "name": "packages.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 695
+}{
+ "name": "sessions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 30180
+}{
+ "name": "status_codes.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 4235
+}{
+ "name": "structures.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 2912
+}{
+ "name": "utils.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 33240
+}{
+ "name": "_internal_utils.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 1397
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 5178
+}{
+ "name": "__version__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\requests",
+ "size": 440
+}{
+ "name": "resolvelib",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+ "size": 4096
+}{
+ "name": "providers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+ "size": 5872
+}{
+ "name": "reporters.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+ "size": 1583
+}{
+ "name": "resolvers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+ "size": 17592
+}{
+ "name": "structs.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+ "size": 4794
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+ "size": 537
+}{
+ "name": "compat",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat",
+ "size": 0
+}{
+ "name": "collections_abc.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat",
+ "size": 156
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat",
+ "size": 0
+}{
+ "name": "rich",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 16384
+}{
+ "name": "abc.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 890
+}{
+ "name": "align.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 10368
+}{
+ "name": "ansi.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 6820
+}{
+ "name": "bar.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 3264
+}{
+ "name": "box.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 9864
+}{
+ "name": "cells.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 4503
+}{
+ "name": "color.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 17957
+}{
+ "name": "color_triplet.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 1054
+}{
+ "name": "columns.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 7131
+}{
+ "name": "console.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 95885
+}{
+ "name": "constrain.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 1288
+}{
+ "name": "containers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 5497
+}{
+ "name": "control.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 6630
+}{
+ "name": "default_styles.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 7954
+}{
+ "name": "diagnose.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 972
+}{
+ "name": "emoji.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 2501
+}{
+ "name": "errors.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 642
+}{
+ "name": "filesize.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 2507
+}{
+ "name": "file_proxy.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 1616
+}{
+ "name": "highlighter.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 9585
+}{
+ "name": "json.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 5051
+}{
+ "name": "jupyter.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 3252
+}{
+ "name": "layout.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 14074
+}{
+ "name": "live.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 14172
+}{
+ "name": "live_render.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 3667
+}{
+ "name": "logging.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 11471
+}{
+ "name": "markup.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 8198
+}{
+ "name": "measure.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 5305
+}{
+ "name": "padding.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 4970
+}{
+ "name": "pager.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 828
+}{
+ "name": "palette.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 3396
+}{
+ "name": "panel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 8744
+}{
+ "name": "pretty.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 36576
+}{
+ "name": "progress.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 59746
+}{
+ "name": "progress_bar.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 8161
+}{
+ "name": "prompt.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 11303
+}{
+ "name": "protocol.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 1391
+}{
+ "name": "region.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 166
+}{
+ "name": "repr.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 4449
+}{
+ "name": "rule.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 4773
+}{
+ "name": "scope.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 2842
+}{
+ "name": "screen.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 1591
+}{
+ "name": "segment.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 24224
+}{
+ "name": "spinner.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 4374
+}{
+ "name": "status.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 4425
+}{
+ "name": "style.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 26240
+}{
+ "name": "styled.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 1258
+}{
+ "name": "syntax.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 34697
+}{
+ "name": "table.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 39515
+}{
+ "name": "terminal_theme.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 3370
+}{
+ "name": "text.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 44666
+}{
+ "name": "theme.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 3627
+}{
+ "name": "themes.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 102
+}{
+ "name": "traceback.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 26060
+}{
+ "name": "tree.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 9169
+}{
+ "name": "_cell_widths.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 10096
+}{
+ "name": "_emoji_codes.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 140235
+}{
+ "name": "_emoji_replace.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 1064
+}{
+ "name": "_export_format.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 2114
+}{
+ "name": "_extension.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 265
+}{
+ "name": "_inspect.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 9695
+}{
+ "name": "_log_render.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 3225
+}{
+ "name": "_loop.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 1236
+}{
+ "name": "_palettes.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 7063
+}{
+ "name": "_pick.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 423
+}{
+ "name": "_ratio.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 5472
+}{
+ "name": "_spinners.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 19919
+}{
+ "name": "_stack.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 351
+}{
+ "name": "_timer.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 417
+}{
+ "name": "_win32_console.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 22820
+}{
+ "name": "_windows.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 1926
+}{
+ "name": "_windows_renderer.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 2783
+}{
+ "name": "_wrap.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 1840
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 5944
+}{
+ "name": "__main__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\rich",
+ "size": 8808
+}{
+ "name": "tenacity",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 4096
+}{
+ "name": "after.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 1496
+}{
+ "name": "before.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 1376
+}{
+ "name": "before_sleep.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 1908
+}{
+ "name": "nap.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 1383
+}{
+ "name": "retry.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 7550
+}{
+ "name": "stop.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 2790
+}{
+ "name": "tornadoweb.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 2145
+}{
+ "name": "wait.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 8011
+}{
+ "name": "_asyncio.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 3314
+}{
+ "name": "_utils.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 1944
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+ "size": 18364
+}{
+ "name": "tomli",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tomli",
+ "size": 0
+}{
+ "name": "_parser.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tomli",
+ "size": 22633
+}{
+ "name": "_re.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tomli",
+ "size": 2943
+}{
+ "name": "_types.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tomli",
+ "size": 254
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\tomli",
+ "size": 396
+}{
+ "name": "urllib3",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 4096
+}{
+ "name": "connection.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 20070
+}{
+ "name": "connectionpool.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 39093
+}{
+ "name": "exceptions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 8217
+}{
+ "name": "fields.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 8579
+}{
+ "name": "filepost.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 2440
+}{
+ "name": "poolmanager.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 19786
+}{
+ "name": "request.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 5985
+}{
+ "name": "response.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 30109
+}{
+ "name": "_collections.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 10811
+}{
+ "name": "_version.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 64
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+ "size": 3333
+}{
+ "name": "contrib",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+ "size": 4096
+}{
+ "name": "appengine.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+ "size": 11034
+}{
+ "name": "ntlmpool.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+ "size": 4538
+}{
+ "name": "pyopenssl.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+ "size": 17182
+}{
+ "name": "securetransport.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+ "size": 34448
+}{
+ "name": "socks.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+ "size": 7097
+}{
+ "name": "_appengine_environ.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+ "size": 957
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+ "size": 0
+}{
+ "name": "_securetransport",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport",
+ "size": 0
+}{
+ "name": "bindings.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport",
+ "size": 17632
+}{
+ "name": "low_level.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport",
+ "size": 13922
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport",
+ "size": 0
+}{
+ "name": "packages",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages",
+ "size": 0
+}{
+ "name": "six.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages",
+ "size": 34665
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages",
+ "size": 0
+}{
+ "name": "backports",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports",
+ "size": 0
+}{
+ "name": "makefile.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports",
+ "size": 1417
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports",
+ "size": 0
+}{
+ "name": "util",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 4096
+}{
+ "name": "connection.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 4901
+}{
+ "name": "proxy.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 1605
+}{
+ "name": "queue.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 498
+}{
+ "name": "request.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 3997
+}{
+ "name": "response.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 3510
+}{
+ "name": "retry.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 22001
+}{
+ "name": "ssltransport.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 6895
+}{
+ "name": "ssl_.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 17177
+}{
+ "name": "ssl_match_hostname.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 5758
+}{
+ "name": "timeout.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 10003
+}{
+ "name": "url.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 14287
+}{
+ "name": "wait.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 5403
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+ "size": 1155
+}{
+ "name": "webencodings",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\webencodings",
+ "size": 4096
+}{
+ "name": "labels.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\webencodings",
+ "size": 8979
+}{
+ "name": "mklabels.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\webencodings",
+ "size": 1305
+}{
+ "name": "tests.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\webencodings",
+ "size": 6563
+}{
+ "name": "x_user_defined.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\webencodings",
+ "size": 4307
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip\\_vendor\\webencodings",
+ "size": 10579
+}{
+ "name": "pip-22.3.1.dist-info",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip-22.3.1.dist-info",
+ "size": 4096
+}{
+ "name": "entry_points.txt",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip-22.3.1.dist-info",
+ "size": 125
+}{
+ "name": "INSTALLER",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip-22.3.1.dist-info",
+ "size": 5
+}{
+ "name": "LICENSE.txt",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip-22.3.1.dist-info",
+ "size": 1093
+}{
+ "name": "METADATA",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip-22.3.1.dist-info",
+ "size": 4072
+}{
+ "name": "RECORD",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip-22.3.1.dist-info",
+ "size": 71279
+}{
+ "name": "top_level.txt",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip-22.3.1.dist-info",
+ "size": 4
+}{
+ "name": "WHEEL",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pip-22.3.1.dist-info",
+ "size": 92
+}{
+ "name": "pkg_resources",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources",
+ "size": 0
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources",
+ "size": 108568
+}{
+ "name": "extern",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\extern",
+ "size": 0
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\extern",
+ "size": 2426
+}{
+ "name": "__pycache__",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\extern\\__pycache__",
+ "size": 0
+}{
+ "name": "__init__.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\extern\\__pycache__",
+ "size": 2937
+}{
+ "name": "_vendor",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor",
+ "size": 4096
+}{
+ "name": "appdirs.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor",
+ "size": 24701
+}{
+ "name": "zipp.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor",
+ "size": 8425
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor",
+ "size": 0
+}{
+ "name": "importlib_resources",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+ "size": 4096
+}{
+ "name": "abc.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+ "size": 3886
+}{
+ "name": "readers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+ "size": 3566
+}{
+ "name": "simple.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+ "size": 2836
+}{
+ "name": "_adapters.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+ "size": 4504
+}{
+ "name": "_common.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+ "size": 2741
+}{
+ "name": "_compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+ "size": 2706
+}{
+ "name": "_itertools.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+ "size": 884
+}{
+ "name": "_legacy.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+ "size": 3494
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+ "size": 506
+}{
+ "name": "jaraco",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco",
+ "size": 4096
+}{
+ "name": "context.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco",
+ "size": 5420
+}{
+ "name": "functools.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco",
+ "size": 13515
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco",
+ "size": 0
+}{
+ "name": "text",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text",
+ "size": 0
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text",
+ "size": 15526
+}{
+ "name": "__pycache__",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__pycache__",
+ "size": 0
+}{
+ "name": "__init__.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__pycache__",
+ "size": 19660
+}{
+ "name": "__pycache__",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__",
+ "size": 4096
+}{
+ "name": "context.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__",
+ "size": 6323
+}{
+ "name": "functools.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__",
+ "size": 15615
+}{
+ "name": "__init__.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__",
+ "size": 191
+}{
+ "name": "more_itertools",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools",
+ "size": 0
+}{
+ "name": "more.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools",
+ "size": 132569
+}{
+ "name": "recipes.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools",
+ "size": 18410
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools",
+ "size": 83
+}{
+ "name": "__pycache__",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__",
+ "size": 4096
+}{
+ "name": "more.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__",
+ "size": 123039
+}{
+ "name": "recipes.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__",
+ "size": 20327
+}{
+ "name": "__init__.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__",
+ "size": 266
+}{
+ "name": "packaging",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 4096
+}{
+ "name": "markers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 8496
+}{
+ "name": "requirements.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 4706
+}{
+ "name": "specifiers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 30110
+}{
+ "name": "tags.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 15699
+}{
+ "name": "utils.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 4200
+}{
+ "name": "version.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 14665
+}{
+ "name": "_manylinux.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 11488
+}{
+ "name": "_musllinux.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 4378
+}{
+ "name": "_structures.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 1431
+}{
+ "name": "__about__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 661
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+ "size": 497
+}{
+ "name": "__pycache__",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 4096
+}{
+ "name": "markers.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 9297
+}{
+ "name": "requirements.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 3985
+}{
+ "name": "specifiers.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 21528
+}{
+ "name": "tags.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 12191
+}{
+ "name": "utils.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 3576
+}{
+ "name": "version.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 12926
+}{
+ "name": "_manylinux.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 7301
+}{
+ "name": "_musllinux.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 4613
+}{
+ "name": "_structures.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 2706
+}{
+ "name": "__about__.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 591
+}{
+ "name": "__init__.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+ "size": 447
+}{
+ "name": "pyparsing",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+ "size": 4096
+}{
+ "name": "actions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+ "size": 6426
+}{
+ "name": "common.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+ "size": 12936
+}{
+ "name": "core.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+ "size": 213310
+}{
+ "name": "exceptions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+ "size": 9023
+}{
+ "name": "helpers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+ "size": 39129
+}{
+ "name": "results.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+ "size": 25341
+}{
+ "name": "testing.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+ "size": 13402
+}{
+ "name": "unicode.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+ "size": 10787
+}{
+ "name": "util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+ "size": 6805
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+ "size": 9159
+}{
+ "name": "diagram",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram",
+ "size": 0
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram",
+ "size": 23668
+}{
+ "name": "__pycache__",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+ "size": 4096
+}{
+ "name": "actions.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+ "size": 7180
+}{
+ "name": "common.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+ "size": 10106
+}{
+ "name": "core.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+ "size": 176423
+}{
+ "name": "exceptions.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+ "size": 9064
+}{
+ "name": "helpers.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+ "size": 35341
+}{
+ "name": "results.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+ "size": 24782
+}{
+ "name": "testing.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+ "size": 12098
+}{
+ "name": "unicode.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+ "size": 10059
+}{
+ "name": "util.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+ "size": 8606
+}{
+ "name": "__init__.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+ "size": 7118
+}{
+ "name": "__pycache__",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__",
+ "size": 0
+}{
+ "name": "appdirs.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__",
+ "size": 20245
+}{
+ "name": "__init__.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__",
+ "size": 184
+}{
+ "name": "__pycache__",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\__pycache__",
+ "size": 0
+}{
+ "name": "__init__.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\pkg_resources\\__pycache__",
+ "size": 100552
+}{
+ "name": "setuptools",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 12288
+}{
+ "name": "archive_util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 7346
+}{
+ "name": "build_meta.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 19539
+}{
+ "name": "cli-32.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 65536
+}{
+ "name": "cli-64.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 74752
+}{
+ "name": "cli-arm64.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 137216
+}{
+ "name": "cli.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 65536
+}{
+ "name": "depends.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 5499
+}{
+ "name": "dep_util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 949
+}{
+ "name": "discovery.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 20799
+}{
+ "name": "dist.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 45578
+}{
+ "name": "errors.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 2464
+}{
+ "name": "extension.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 5591
+}{
+ "name": "glob.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 4873
+}{
+ "name": "gui-32.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 65536
+}{
+ "name": "gui-64.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 75264
+}{
+ "name": "gui-arm64.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 137728
+}{
+ "name": "gui.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 65536
+}{
+ "name": "installer.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 3824
+}{
+ "name": "launch.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 812
+}{
+ "name": "logging.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 1210
+}{
+ "name": "monkey.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 4857
+}{
+ "name": "msvc.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 47724
+}{
+ "name": "namespaces.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 3093
+}{
+ "name": "package_index.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 40329
+}{
+ "name": "py34compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 245
+}{
+ "name": "sandbox.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 14348
+}{
+ "name": "script (dev).tmpl",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 218
+}{
+ "name": "script.tmpl",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 138
+}{
+ "name": "unicode_utils.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 941
+}{
+ "name": "version.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 144
+}{
+ "name": "wheel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 8376
+}{
+ "name": "windows_support.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 718
+}{
+ "name": "_deprecation_warning.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 218
+}{
+ "name": "_entry_points.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 1972
+}{
+ "name": "_imp.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 2392
+}{
+ "name": "_importlib.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 1311
+}{
+ "name": "_itertools.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 675
+}{
+ "name": "_path.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 749
+}{
+ "name": "_reqs.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 501
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools",
+ "size": 8429
+}{
+ "name": "command",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 8192
+}{
+ "name": "alias.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 2381
+}{
+ "name": "bdist_egg.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 16623
+}{
+ "name": "bdist_rpm.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 1182
+}{
+ "name": "build.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 6589
+}{
+ "name": "build_clib.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 4415
+}{
+ "name": "build_ext.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 15821
+}{
+ "name": "build_py.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 14115
+}{
+ "name": "develop.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 7012
+}{
+ "name": "dist_info.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 4800
+}{
+ "name": "easy_install.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 85662
+}{
+ "name": "editable_wheel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 31188
+}{
+ "name": "egg_info.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 26795
+}{
+ "name": "install.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 5163
+}{
+ "name": "install_egg_info.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 2226
+}{
+ "name": "install_lib.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 3875
+}{
+ "name": "install_scripts.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 2612
+}{
+ "name": "launcher manifest.xml",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 628
+}{
+ "name": "py36compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 4946
+}{
+ "name": "register.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 468
+}{
+ "name": "rotate.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 2128
+}{
+ "name": "saveopts.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 658
+}{
+ "name": "sdist.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 7071
+}{
+ "name": "setopt.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 5086
+}{
+ "name": "test.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 8102
+}{
+ "name": "upload.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 462
+}{
+ "name": "upload_docs.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 7494
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\command",
+ "size": 396
+}{
+ "name": "config",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config",
+ "size": 4096
+}{
+ "name": "expand.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config",
+ "size": 16319
+}{
+ "name": "pyprojecttoml.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config",
+ "size": 19304
+}{
+ "name": "setupcfg.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config",
+ "size": 25198
+}{
+ "name": "_apply_pyprojecttoml.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config",
+ "size": 13398
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config",
+ "size": 1121
+}{
+ "name": "_validate_pyproject",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+ "size": 4096
+}{
+ "name": "error_reporting.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+ "size": 11266
+}{
+ "name": "extra_validations.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+ "size": 1153
+}{
+ "name": "fastjsonschema_exceptions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+ "size": 1612
+}{
+ "name": "fastjsonschema_validations.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+ "size": 269900
+}{
+ "name": "formats.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+ "size": 8736
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+ "size": 1038
+}{
+ "name": "extern",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\extern",
+ "size": 0
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\extern",
+ "size": 2512
+}{
+ "name": "_distutils",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 8192
+}{
+ "name": "archive_util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 8603
+}{
+ "name": "bcppcompiler.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 14789
+}{
+ "name": "ccompiler.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 47369
+}{
+ "name": "cmd.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 17973
+}{
+ "name": "config.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 4920
+}{
+ "name": "core.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 9451
+}{
+ "name": "cygwinccompiler.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 12537
+}{
+ "name": "debug.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 139
+}{
+ "name": "dep_util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 3423
+}{
+ "name": "dir_util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 8082
+}{
+ "name": "dist.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 50186
+}{
+ "name": "errors.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 3589
+}{
+ "name": "extension.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 10270
+}{
+ "name": "fancy_getopt.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 17910
+}{
+ "name": "filelist.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 13713
+}{
+ "name": "file_util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 8226
+}{
+ "name": "log.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 1972
+}{
+ "name": "msvc9compiler.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 30235
+}{
+ "name": "msvccompiler.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 23602
+}{
+ "name": "py38compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 217
+}{
+ "name": "py39compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 639
+}{
+ "name": "spawn.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 3517
+}{
+ "name": "sysconfig.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 18858
+}{
+ "name": "text_file.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 12096
+}{
+ "name": "unixccompiler.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 15641
+}{
+ "name": "util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 18128
+}{
+ "name": "version.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 12952
+}{
+ "name": "versionpredicate.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 5248
+}{
+ "name": "_collections.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 1330
+}{
+ "name": "_functools.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 411
+}{
+ "name": "_macos_compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 239
+}{
+ "name": "_msvccompiler.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 19672
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils",
+ "size": 537
+}{
+ "name": "command",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 4096
+}{
+ "name": "bdist.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 5441
+}{
+ "name": "bdist_dumb.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 4701
+}{
+ "name": "bdist_rpm.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 22051
+}{
+ "name": "build.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 5617
+}{
+ "name": "build_clib.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 7728
+}{
+ "name": "build_ext.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 31558
+}{
+ "name": "build_py.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 16568
+}{
+ "name": "build_scripts.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 5624
+}{
+ "name": "check.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 4888
+}{
+ "name": "clean.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 2603
+}{
+ "name": "config.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 13137
+}{
+ "name": "install.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 30221
+}{
+ "name": "install_data.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 2779
+}{
+ "name": "install_egg_info.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 2785
+}{
+ "name": "install_headers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 1189
+}{
+ "name": "install_lib.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 8434
+}{
+ "name": "install_scripts.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 1936
+}{
+ "name": "py37compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 672
+}{
+ "name": "register.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 11765
+}{
+ "name": "sdist.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 19241
+}{
+ "name": "upload.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 7477
+}{
+ "name": "_framework_compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 1614
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_distutils\\command",
+ "size": 430
+}{
+ "name": "_vendor",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor",
+ "size": 4096
+}{
+ "name": "ordered_set.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor",
+ "size": 15130
+}{
+ "name": "typing_extensions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor",
+ "size": 87149
+}{
+ "name": "zipp.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor",
+ "size": 8425
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor",
+ "size": 0
+}{
+ "name": "importlib_metadata",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+ "size": 4096
+}{
+ "name": "_adapters.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+ "size": 1862
+}{
+ "name": "_collections.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+ "size": 743
+}{
+ "name": "_compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+ "size": 1828
+}{
+ "name": "_functools.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+ "size": 2895
+}{
+ "name": "_itertools.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+ "size": 2068
+}{
+ "name": "_meta.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+ "size": 1154
+}{
+ "name": "_text.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+ "size": 2166
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+ "size": 30130
+}{
+ "name": "importlib_resources",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+ "size": 4096
+}{
+ "name": "abc.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+ "size": 3886
+}{
+ "name": "readers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+ "size": 3566
+}{
+ "name": "simple.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+ "size": 2836
+}{
+ "name": "_adapters.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+ "size": 4504
+}{
+ "name": "_common.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+ "size": 2741
+}{
+ "name": "_compat.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+ "size": 2706
+}{
+ "name": "_itertools.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+ "size": 884
+}{
+ "name": "_legacy.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+ "size": 3494
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+ "size": 506
+}{
+ "name": "jaraco",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\jaraco",
+ "size": 0
+}{
+ "name": "context.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\jaraco",
+ "size": 5420
+}{
+ "name": "functools.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\jaraco",
+ "size": 13512
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\jaraco",
+ "size": 0
+}{
+ "name": "text",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text",
+ "size": 0
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text",
+ "size": 15517
+}{
+ "name": "more_itertools",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools",
+ "size": 0
+}{
+ "name": "more.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools",
+ "size": 117959
+}{
+ "name": "recipes.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools",
+ "size": 16256
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools",
+ "size": 82
+}{
+ "name": "packaging",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 4096
+}{
+ "name": "markers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 8493
+}{
+ "name": "requirements.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 4700
+}{
+ "name": "specifiers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 30110
+}{
+ "name": "tags.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 15699
+}{
+ "name": "utils.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 4200
+}{
+ "name": "version.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 14665
+}{
+ "name": "_manylinux.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 11488
+}{
+ "name": "_musllinux.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 4378
+}{
+ "name": "_structures.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 1431
+}{
+ "name": "__about__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 661
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+ "size": 497
+}{
+ "name": "pyparsing",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+ "size": 4096
+}{
+ "name": "actions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+ "size": 6426
+}{
+ "name": "common.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+ "size": 12936
+}{
+ "name": "core.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+ "size": 213310
+}{
+ "name": "exceptions.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+ "size": 9023
+}{
+ "name": "helpers.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+ "size": 39129
+}{
+ "name": "results.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+ "size": 25341
+}{
+ "name": "testing.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+ "size": 13402
+}{
+ "name": "unicode.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+ "size": 10787
+}{
+ "name": "util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+ "size": 6805
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+ "size": 9159
+}{
+ "name": "diagram",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram",
+ "size": 0
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram",
+ "size": 23668
+}{
+ "name": "tomli",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+ "size": 0
+}{
+ "name": "_parser.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+ "size": 22633
+}{
+ "name": "_re.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+ "size": 2943
+}{
+ "name": "_types.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+ "size": 254
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+ "size": 396
+}{
+ "name": "setuptools-65.5.1.dist-info",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+ "size": 4096
+}{
+ "name": "entry_points.txt",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+ "size": 2740
+}{
+ "name": "INSTALLER",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+ "size": 5
+}{
+ "name": "LICENSE",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+ "size": 1050
+}{
+ "name": "METADATA",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+ "size": 6311
+}{
+ "name": "RECORD",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+ "size": 35656
+}{
+ "name": "top_level.txt",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+ "size": 41
+}{
+ "name": "WHEEL",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+ "size": 92
+}{
+ "name": "wheel",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel",
+ "size": 4096
+}{
+ "name": "bdist_wheel.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel",
+ "size": 19293
+}{
+ "name": "macosx_libfile.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel",
+ "size": 16145
+}{
+ "name": "metadata.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel",
+ "size": 3727
+}{
+ "name": "util.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel",
+ "size": 621
+}{
+ "name": "wheelfile.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel",
+ "size": 7536
+}{
+ "name": "_setuptools_logging.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel",
+ "size": 746
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel",
+ "size": 59
+}{
+ "name": "__main__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel",
+ "size": 455
+}{
+ "name": "cli",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\cli",
+ "size": 0
+}{
+ "name": "convert.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\cli",
+ "size": 9427
+}{
+ "name": "pack.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\cli",
+ "size": 3383
+}{
+ "name": "unpack.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\cli",
+ "size": 659
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\cli",
+ "size": 2384
+}{
+ "name": "vendored",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\vendored",
+ "size": 0
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\vendored",
+ "size": 0
+}{
+ "name": "packaging",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\vendored\\packaging",
+ "size": 4096
+}{
+ "name": "tags.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\vendored\\packaging",
+ "size": 15612
+}{
+ "name": "_manylinux.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\vendored\\packaging",
+ "size": 11489
+}{
+ "name": "_musllinux.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\vendored\\packaging",
+ "size": 4374
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel\\vendored\\packaging",
+ "size": 0
+}{
+ "name": "wheel-0.38.4.dist-info",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+ "size": 4096
+}{
+ "name": "entry_points.txt",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+ "size": 107
+}{
+ "name": "INSTALLER",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+ "size": 5
+}{
+ "name": "LICENSE.txt",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+ "size": 1107
+}{
+ "name": "METADATA",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+ "size": 2110
+}{
+ "name": "RECORD",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+ "size": 2835
+}{
+ "name": "top_level.txt",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+ "size": 6
+}{
+ "name": "WHEEL",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+ "size": 92
+}{
+ "name": "_distutils_hack",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\_distutils_hack",
+ "size": 0
+}{
+ "name": "override.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\_distutils_hack",
+ "size": 44
+}{
+ "name": "__init__.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\_distutils_hack",
+ "size": 6128
+}{
+ "name": "__pycache__",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\_distutils_hack\\__pycache__",
+ "size": 0
+}{
+ "name": "__init__.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\_distutils_hack\\__pycache__",
+ "size": 7576
+}{
+ "name": "__pycache__",
+ "type": "dir",
+ "parent": ".\\HW8python\\Lib\\site-packages\\__pycache__",
+ "size": 0
+}{
+ "name": "_virtualenv.cpython-310.pyc",
+ "type": "file",
+ "parent": ".\\HW8python\\Lib\\site-packages\\__pycache__",
+ "size": 4042
+}{
+ "name": "Scripts",
+ "type": "dir",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 4096
+}{
+ "name": "activate",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 2162
+}{
+ "name": "activate.bat",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 1015
+}{
+ "name": "activate.fish",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 3039
+}{
+ "name": "activate.nu",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 2597
+}{
+ "name": "Activate.ps1",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 1758
+}{
+ "name": "activate_this.py",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 1169
+}{
+ "name": "deactivate.bat",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 511
+}{
+ "name": "deactivate.nu",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 682
+}{
+ "name": "pip-3.10.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 108417
+}{
+ "name": "pip.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 108417
+}{
+ "name": "pip3.10.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 108417
+}{
+ "name": "pip3.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 108417
+}{
+ "name": "pydoc.bat",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 24
+}{
+ "name": "python.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 268568
+}{
+ "name": "pythonw.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 257304
+}{
+ "name": "wheel-3.10.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 108404
+}{
+ "name": "wheel.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 108404
+}{
+ "name": "wheel3.10.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 108404
+}{
+ "name": "wheel3.exe",
+ "type": "file",
+ "parent": ".\\HW8python\\Scripts",
+ "size": 108404
+}
